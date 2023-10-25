@@ -1,6 +1,6 @@
 # Table of contents
 
-* [VIM Editor](README.md)
+* [VIM Editor](vim_editor.md)
 
 ## Commands
 
