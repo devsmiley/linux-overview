@@ -104,7 +104,14 @@ Copy from remote system to current system
 $ nslookup
 used to query name resolution for a domain
 
-$ server ip
+> server ip
+with nslookup, the ip mentioned will be used as default server for queries
+
+> set type=<record-type>
+with nslookup, used to fetch the details based on the record type 
+
+> set debug
+with nslookup, used to fetch information for debugging purporse
 with nslookup, the ip mentioned will be used as default server for queries
 
 
