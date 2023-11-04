@@ -101,7 +101,11 @@ Copy from current system to remote
 $ scp remote_uname@remote_ip:path local_file_name
 Copy from remote system to current system
 
+$ nslookup
+used to query name resolution for a domain
 
+$ server ip
+with nslookup, the ip mentioned will be used as default server for queries
 
 
 ```
